@@ -1,6 +1,6 @@
 # Setup GitHub actions for Quarto and GitHub Pages
 
-1. On https://github.com/NicolasBoumal/workshop2025/settings/pages, select "Deploy from a branch", and "gh-pages", "root".
+1. On https://github.com/optimization-unplugged/optimization-unplugged.github.io/settings/pages, select "Deploy from a branch", and "gh-pages", "root".
 2. Create a file on main branch under /.github/workflows/ called quarto-pages.yml. Contents below.
 
 ```yaml
