@@ -1,0 +1,57 @@
+/* css styles */
+
+/* Justify text in paragraphs, but not in abstracts or theorems etc. */
+/*
+:not(.listing-description, .blockquote, .quarto-title) > p {
+    text-align: justify;
+}
+*/
+/* Tooltips when hovering over a bibliographic reference or footnote mark shouldn't be justify-aligned */
+/*
+.csl-entry, .tippy-content > p {
+    text-align: left;
+}
+*/
+
+/* Suppresses the space occupied by thumbnails in lists of posts.
+   This appears to be necessary even when forcing thumbnail size to be 0.
+   This is still necessary with Quarto 1.6.15. */
+div.quarto-post .thumbnail {
+    flex-basis: 0;
+}
+
+/* There was insufficient spacing below each post listed on the index page with Quarto <= 1.6.15 at least. */
+div.quarto-post .listing-description {
+    margin-bottom: 1em;
+}
+
+/* On mobile, that width was set to 45%, leaving space for non-existent thumbnails. */
+div.quarto-post .body {
+    width: unset;
+}
+
+.theorem p {
+    text-align: left;
+}
+.theorem-title::after {
+    content: "\00a0\00a0";  /* non-breakable space after Theorem 1, Definition 2, ... */
+}
+.proof-title {
+    font-weight: bold;
+}
+.proof-title > em {
+    font-style: normal;  /* Force the "Proof." text to be non-italics */
+}
+.proof {
+    padding-right: 0.95rem;
+    border-right: .07em solid #dee2e6;  /* Bibliography horizontal separator is #dee2e6 */
+    margin-bottom: 1.5em;
+}
+.proof-collapsed {
+    max-height: 1.5em;
+    overflow: hidden;
+    opacity: 50%;
+}
+.proof-collapsed .proof-title ::after {
+    content: " (click to expand)";
+}
