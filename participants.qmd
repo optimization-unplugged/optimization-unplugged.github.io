@@ -6,11 +6,15 @@ We are looking forward to welcoming our colleagues.
 The list below will evolve over time.
 
 * [Afonso Bandeira](https://people.math.ethz.ch/~abandeira/) (tbc)
+* [Raphael Berthier](https://raphael-berthier.github.io/)
 * [Dima Drusvyatskiy](https://sites.google.com/uw.edu/ddrusv/home) (tbc)
 * [John Duchi](https://stanford.edu/~jduchi/) (tbc)
 * [Niao He](https://odi.inf.ethz.ch/niaohe.html)
 * [Courtney Paquette](https://cypaquette.github.io/)
 * [Vianney Perchet](https://vianney.ai/)
 * [Philippe Rigollet](https://math.mit.edu/~rigollet/)
+* [Anna Shalova](https://sites.google.com/view/annashalova/home)
 * [Zebang Shen](https://shenzebang.github.io/)
+* [Suvrit Sra](https://optml.mit.edu/) (tbc)
+* [Loucas Pillaud-Vivien](https://thebiglouloup.github.io/loucaspillaudvivien/)
 * [Irène Waldspurger](https://www.ceremade.dauphine.fr/~waldspurger/)
