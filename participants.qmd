@@ -10,5 +10,7 @@ The list below will evolve over time.
 * [John Duchi](https://stanford.edu/~jduchi/) (tbc)
 * [Niao He](https://odi.inf.ethz.ch/niaohe.html)
 * [Courtney Paquette](https://cypaquette.github.io/)
+* [Vianney Perchet](https://vianney.ai/)
 * [Philippe Rigollet](https://math.mit.edu/~rigollet/)
+* [Zebang Shen](https://shenzebang.github.io/)
 * [Irène Waldspurger](https://www.ceremade.dauphine.fr/~waldspurger/)
