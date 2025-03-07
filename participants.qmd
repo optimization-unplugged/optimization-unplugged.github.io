@@ -20,6 +20,7 @@ The list below will evolve over time.
 * [Borjan Geshkovski](https://borjang.github.io/)
 * [Niao He](https://odi.inf.ethz.ch/niaohe.html)
 * [Shuyang Ling](https://shanghai.nyu.edu/academics/faculty/directory/shuyang-ling)
+* [Aurélien Lucchi](https://alucchi.github.io/)
 * [Pierre Marion](https://pierremarion23.github.io/)
 * [Andrew D. McRae](https://admcrae.github.io/)
 * [Courtney Paquette](https://cypaquette.github.io/)
