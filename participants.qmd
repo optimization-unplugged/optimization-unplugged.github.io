@@ -31,5 +31,6 @@ The list below will evolve over time.
 * [Anna Shalova](https://sites.google.com/view/annashalova/home)
 * [Zebang Shen](https://shenzebang.github.io/)
 * [Suvrit Sra](https://optml.mit.edu/) (tbc)
+* [Sebastian Stich](https://sstich.ch/)
 * [Adrien Taylor](https://adrientaylor.github.io/)
 * [Irène Waldspurger](https://www.ceremade.dauphine.fr/~waldspurger/)
