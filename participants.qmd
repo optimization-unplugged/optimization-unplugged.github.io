@@ -26,7 +26,6 @@ The list below will evolve over time.
 * [Courtney Paquette](https://cypaquette.github.io/)
 * [Vianney Perchet](https://vianney.ai/)
 * [Loucas Pillaud-Vivien](https://thebiglouloup.github.io/loucaspillaudvivien/)
-* [Philippe Rigollet](https://math.mit.edu/~rigollet/)
 * [Clément Royer](https://www.lamsade.dauphine.fr/~croyer/teach.html)
 * [Anna Shalova](https://sites.google.com/view/annashalova/home)
 * [Zebang Shen](https://shenzebang.github.io/)
