@@ -9,7 +9,6 @@ The list below will evolve over time.
 * [Quentin Berthet](https://q-berthet.github.io/) (tbc)
 * [Raphael Berthier](https://raphael-berthier.github.io/)
 * [Nicolas Boumal](https://www.nicolasboumal.net/)
-* [Etienne Boursier](https://eboursier.github.io/)
 * [Lénaïc Chizat](https://lchizat.github.io/)
 * [Chris Criscitiello](https://ccriscitiello.github.io/personalwebsite/)
 * [Alex Damian](https://web.math.princeton.edu/~ad27/)
