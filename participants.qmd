@@ -22,7 +22,6 @@ The list below will evolve over time.
 * [Antoine Gonon](https://agonon.github.io/)
 * [Niao He](https://odi.inf.ethz.ch/niaohe.html)
 * [Xiaowen Jiang](https://scholar.google.com/citations?user=g_MNvxwAAAAJ&hl=en)
-* [Eitan Levin](https://www.eitanlev.in/)
 * [Shuyang Ling](https://shanghai.nyu.edu/academics/faculty/directory/shuyang-ling)
 * [Aurélien Lucchi](https://alucchi.github.io/)
 * [Julien Mairal](https://lear.inrialpes.fr/people/mairal/)
