@@ -5,7 +5,6 @@ title: "Participants"
 We are looking forward to welcoming our colleagues.
 The list below will evolve over time.
 
-* [Afonso Bandeira](https://people.math.ethz.ch/~abandeira/) (tbc)
 * [Quentin Berthet](https://q-berthet.github.io/) (tbc)
 * [Raphael Berthier](https://raphael-berthier.github.io/)
 * [Nicolas Boumal](https://www.nicolasboumal.net/)
