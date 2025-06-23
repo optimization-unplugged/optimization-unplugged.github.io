@@ -19,7 +19,7 @@ The list below will evolve over time.
 * [Nicolas Flammarion](https://www.epfl.ch/labs/tml/)
 * [Borjan Geshkovski](https://borjang.github.io/)
 * [Antoine Gonon](https://agonon.github.io/)
-* [Niao He](https://odi.inf.ethz.ch/niaohe.html)
+* [Niao He](https://odi.inf.ethz.ch/niaohe.html) (tbc)
 * [Xiaowen Jiang](https://scholar.google.com/citations?user=g_MNvxwAAAAJ&hl=en)
 * [Shuyang Ling](https://shanghai.nyu.edu/academics/faculty/directory/shuyang-ling)
 * [Aurélien Lucchi](https://alucchi.github.io/)
