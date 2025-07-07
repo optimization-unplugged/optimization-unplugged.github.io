@@ -2,9 +2,6 @@
 title: "Participants"
 ---
 
-We are looking forward to welcoming our colleagues.
-The list below will evolve over time.
-
 * [Quentin Berthet](https://q-berthet.github.io/) (tbc)
 * [Raphael Berthier](https://raphael-berthier.github.io/)
 * [Nicolas Boumal](https://www.nicolasboumal.net/)
@@ -13,6 +10,7 @@ The list below will evolve over time.
 * [Alex Damian](https://web.math.princeton.edu/~ad27/)
 * [Aris Daniilidis](https://www.arisdaniilidis.at/)
 * [Aymeric Dieuleveut](http://www.cmap.polytechnique.fr/~aymeric.dieuleveut/)
+* [Nikita Doikov](https://doikov.com/)
 * [Radu Dragomir](https://radualexandrudragomir.github.io/)
 * [Dima Drusvyatskiy](https://sites.google.com/uw.edu/ddrusv/home)
 * [John Duchi](https://stanford.edu/~jduchi/)
