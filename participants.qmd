@@ -39,3 +39,4 @@ The list below will evolve over time.
 * [Sebastian Stich](https://sstich.ch/)
 * [Adrien Taylor](https://adrientaylor.github.io/)
 * [Irène Waldspurger](https://www.ceremade.dauphine.fr/~waldspurger/)
+* [Andre Wibisono](https://www.cs.yale.edu/homes/wibisono/)
