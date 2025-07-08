@@ -2,7 +2,7 @@
 title: "Participants"
 ---
 
-* [Quentin Berthet](https://q-berthet.github.io/) (tbc)
+* [Quentin Berthet](https://q-berthet.github.io/)
 * [Raphael Berthier](https://raphael-berthier.github.io/)
 * [Nicolas Boumal](https://www.nicolasboumal.net/)
 * [Lénaïc Chizat](https://lchizat.github.io/)
