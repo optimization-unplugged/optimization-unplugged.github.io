@@ -12,7 +12,6 @@ title: "Participants"
 * [Aymeric Dieuleveut](http://www.cmap.polytechnique.fr/~aymeric.dieuleveut/)
 * [Nikita Doikov](https://doikov.com/)
 * [Radu Dragomir](https://radualexandrudragomir.github.io/)
-* [Dima Drusvyatskiy](https://sites.google.com/uw.edu/ddrusv/home)
 * [John Duchi](https://stanford.edu/~jduchi/)
 * [Nicolas Flammarion](https://www.epfl.ch/labs/tml/)
 * [Borjan Geshkovski](https://borjang.github.io/)
