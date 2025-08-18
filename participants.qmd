@@ -29,7 +29,6 @@ title: "Participants"
 * [Clément Royer](https://www.lamsade.dauphine.fr/~croyer/teach.html)
 * [Anna Shalova](https://sites.google.com/view/annashalova/home)
 * [Zebang Shen](https://shenzebang.github.io/)
-* [Suvrit Sra](https://optml.mit.edu/) (tbc)
 * [Vaidehi Srinivas](https://vaidehi8913.github.io/)
 * [Sebastian Stich](https://sstich.ch/)
 * [Adrien Taylor](https://adrientaylor.github.io/)
