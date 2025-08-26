@@ -8,7 +8,6 @@ title: "Participants"
 * [Lénaïc Chizat](https://lchizat.github.io/)
 * [Chris Criscitiello](https://ccriscitiello.github.io/personalwebsite/)
 * [Alex Damian](https://web.math.princeton.edu/~ad27/)
-* [Aris Daniilidis](https://www.arisdaniilidis.at/)
 * [Aymeric Dieuleveut](http://www.cmap.polytechnique.fr/~aymeric.dieuleveut/)
 * [Nikita Doikov](https://doikov.com/)
 * [Radu Dragomir](https://radualexandrudragomir.github.io/)
